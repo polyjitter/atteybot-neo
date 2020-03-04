@@ -1,0 +1,23 @@
+{
+  "VERSION": "x.x type",
+  "DESCRIPTION": "a basic base for bots, designed by taciturasa.",
+  "REPO": "",
+  "SERVER": "",
+  "MAINTENANCE": false,
+  "TOKEN": "",
+  "DBL": "",
+  "DBOTS": "",
+  "BOD": "",
+  "DBLCOM": "",
+  "PREFIX": ["basicbot!"],
+  "CASE_INSENSITIVE": true,
+  "PREFIXLESS_DMS": true,
+  "MENTION_ASSIST": true,
+  "CUSTOM_HELP": true,
+  "INFO_HOOK": "",
+  "WARN_HOOK": "",
+  "ERROR_HOOK": "",
+  "DEBUG_HOOK": "",
+  "PERMS": null,
+  "BLOCKED": []
+}
