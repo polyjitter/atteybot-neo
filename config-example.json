@@ -1,23 +1,39 @@
 {
-  "VERSION": "0.1 neo",
-  "DESCRIPTION": "the manager for the @rcade in-Discord gaming platform.",
+  "VERSION": "x.x type",
+  "DESCRIPTION": "a basic base for bots, designed by taciturasa.",
+  "PREFIX": ["basicbot!"],
   "REPO": "",
   "SERVER": "",
-  "MAINTENANCE": false,
   "TOKEN": "",
-  "DBL": "",
-  "DBOTS": "",
-  "BOD": "",
-  "DBLCOM": "",
-  "PREFIX": ["basicbot!"],
+
+  "MAINTENANCE": false,
   "CASE_INSENSITIVE": true,
   "PREFIXLESS_DMS": true,
   "MENTION_ASSIST": true,
   "CUSTOM_HELP": true,
-  "INFO_HOOK": "",
-  "WARN_HOOK": "",
-  "ERROR_HOOK": "",
-  "DEBUG_HOOK": "",
+  
   "PERMS": null,
-  "BLOCKED": []
+  "BLOCKED": [],
+
+  "BOTLISTS": {
+    "DBL": "",
+    "DBOTS": "",
+    "BOD": "",
+    "DBLCOM": ""
+  },
+
+  "HOOKS": {
+    "INFO_HOOK": "",
+    "WARN_HOOK": "",
+    "ERROR_HOOK": "",
+    "DEBUG_HOOK": ""
+  },
+
+  "RETHINK": {
+	  "DB": "",
+	  "USERNAME": "",
+	  "PASSWORD": "",
+	  "HOST": "",
+    "PORT": null
+  }
 }
