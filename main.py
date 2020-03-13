@@ -181,7 +181,7 @@ class Bot(commands.Bot):
             await self._init_rethinkdb()
 
         # NOTE Extension Entry Point
-        # Loads core, which loads all other extensions
+        # Loads online util if there, utils, models, cogs 
         if not self.extensions_list:
             self._init_extensions()
 
