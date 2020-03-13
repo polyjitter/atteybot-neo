@@ -17,7 +17,6 @@ class ManageRooms(commands.Cog, name="Rooms"):
                           name: t.Optional[str] = None):
         """Create a new room."""
 
-
         message = await ctx.send(":typing: Creating room...")
 
         room = rooms.Room(
