@@ -3,8 +3,8 @@
 **atteybot neo** - a discord.py bot that administrates and runs @rcade, a Discord text gaming platform.
 
 ## Contributors
-- @taciturasa
-- @ry00001
+- [@taciturasa](https://github.com/taciturasa)
+- [@ry00001](https://github.com/ry00001)
 
 ## Notice
 
